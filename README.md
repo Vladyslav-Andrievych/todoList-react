@@ -1,3 +1,5 @@
+<h1>It is a copy of my https://github.com/Vladyslav-Andrievych/react/tree/master/lesson12/todolist</h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
