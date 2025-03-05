@@ -1,8 +1,25 @@
-<h1>It is a copy of my https://github.com/Vladyslav-Andrievych/react/tree/master/lesson12/todolist</h1>
+<h6>It is a copy of my https://github.com/Vladyslav-Andrievych/react/tree/master/lesson12/todolist</h6>
+
 
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+<a href="https://timely-marshmallow-84e09d.netlify.app/">Site link on Netlify</a>
+
+<h2>The tech stack is:</h4>
+<ul>    
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>SASS (SCSS)</li>
+    <li>BEM methodology</li>
+    <li>JavaScript ES6+</li> 
+    <li>JS Modules</li> 
+    <li>React</li>
+</ul>
+
+
+____________________
 
 ## Available Scripts
 
